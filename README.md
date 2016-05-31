@@ -1,2 +1,2 @@
 # BuildHierachy
-Prebild JSON file or Webapp
+Prebild JSON file for AgroVoc hierachy within Webapp
